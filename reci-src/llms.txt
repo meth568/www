@@ -1,0 +1,19 @@
+Recipe file template for LLMs
+
+- Filename: use a slugified title (lowercase, hyphens), end with .md
+- Title: Use H2 (##) with the recipe name
+- Source: include a single line with the original URL in markdown link form
+- Times: include Prep Time, Cook Time, Total Time, Servings, Yield as separate lines
+- Ingredients: a '#### Ingredients' heading and a bullet list of ingredients (one per line)
+- Directions: a '#### Directions' heading and numbered step-by-step instructions copied verbatim from the source when possible
+- Notes: optional '#### Notes' section for tips or variations
+- Footer: include exactly this italic line at the bottom: *This website was created with copilot*
+
+Rules for contributors/LLMs:
+1. Do NOT modify any existing recipe files. Create a new file for each recipe.
+2. Use exact, word-for-word step instructions from the source when available. Preserve punctuation and order.
+3. Keep formatting consistent with other recipe files in the repository.
+4. Include the source URL and do not remove attribution.
+5. Name files using the slugified title (e.g., "toll-house-chocolate-chip-cookies.md").
+6. If any optional ingredient (like nuts) is present on the source, include it but mark as optional in parentheses.
+7. Do NOT include nutrition information; omit nutrition sections from recipe files.
