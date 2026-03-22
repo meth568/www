@@ -23,24 +23,15 @@ Yield:
 - 3/4 cup packed brown sugar
 - 1 teaspoon vanilla extract
 - 2 large eggs
-- 2 cups NESTLÉ® TOLL HOUSE® Semi-Sweet Chocolate Morsels (or semisweet chocolate chips)
+- 2 cups Semi-Sweet Chocolate Chips 
 - 1 cup chopped nuts (optional)
 
 #### Directions
 
 1. Preheat oven to 375 degrees F (190 degrees C).
-2. In a small bowl, whisk together flour, baking soda and salt; set aside.
-3. In a large bowl, beat the butter, granulated sugar, brown sugar and vanilla extract until creamy.
-4. Add eggs, one at a time, beating well after each addition.
-5. Gradually beat in the flour mixture.
-6. Stir in the morsels and nuts.
-7. Drop by rounded tablespoon onto ungreased baking sheets.
-8. Bake 9 to 11 minutes or until golden brown.
-9. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
+2. Combine flour, baking soda and salt in small bowl. Beat butter, granulated sugar, brown sugar and vanilla extract in large mixer bowl until creamy. Add eggs, one at a time, beating well after each addition. Gradually beat in flour mixture. Stir in morsels and nuts. Drop by rounded tablespoon onto ungreased baking sheets.
+3. Bake for 9 to 11 minutes or until golden brown. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
 
----
-
-Notes:
+#### Notes:
 - Nuts are optional.
 
-*This website was created with copilot*
